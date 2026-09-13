@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sanjana-Portfolio/static/css/main.fb21d6f7.css",
+    "main.js": "/Sanjana-Portfolio/static/js/main.e01d4369.js",
+    "static/js/770.b477def6.chunk.js": "/Sanjana-Portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/Sanjana-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/profile-photo.png": "/Sanjana-Portfolio/static/media/profile-photo.2c7f2b335731ba039748.png",
+    "static/media/01_nss.jpg": "/Sanjana-Portfolio/static/media/01_nss.7246026a417ee8887c5d.jpg",
+    "static/media/02_basic_computer.jpg": "/Sanjana-Portfolio/static/media/02_basic_computer.0e2eaaae725aa6c07e0e.jpg",
+    "static/media/04_behavioral_science.jpg": "/Sanjana-Portfolio/static/media/04_behavioral_science.35b7e21d17301b6b4644.jpg",
+    "static/media/03_japanese.jpg": "/Sanjana-Portfolio/static/media/03_japanese.a2d941baaf6b0b447a4b.jpg",
+    "index.html": "/Sanjana-Portfolio/index.html",
+    "main.fb21d6f7.css.map": "/Sanjana-Portfolio/static/css/main.fb21d6f7.css.map",
+    "main.e01d4369.js.map": "/Sanjana-Portfolio/static/js/main.e01d4369.js.map",
+    "770.b477def6.chunk.js.map": "/Sanjana-Portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/Sanjana-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb21d6f7.css",
+    "static/js/main.e01d4369.js"
+  ]
+}
